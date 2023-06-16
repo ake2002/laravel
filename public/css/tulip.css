@@ -1,0 +1,20 @@
+body{
+    
+    margin: 0;
+   
+   
+}
+
+.tulip{
+    background-color: #FFFF99;
+    height: 75px;
+}
+
+
+#tulip{
+    margin: 10px;
+    margin-left: 35% ;
+    width: 25%;
+    height: 50px;
+    
+}
